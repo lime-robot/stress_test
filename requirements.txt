@@ -1,0 +1,15 @@
+kaggle
+tqdm
+pandas
+sklearn
+timm
+albumentations
+transformers
+wandb
+jupyter
+matplotlib
+datatable
+pyarrow
+seaborn
+lightgbm
+pytorch_lightning
